@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Buy via the AWS Marketplace</name>
+   <tag></tag>
+   <elementGuidId>1dfeaa5b-2495-4b2a-8a6c-c19a78dbd39f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[7]/div[2]/div[2]/a[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Buy via the AWS Marketplace&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2b270853-5e4c-4b9c-8cbb-2ba861a1f030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card_content</value>
+      <webElementGuid>8087e494-df48-4d49-979f-86eead45aa69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy via the AWS Marketplace</value>
+      <webElementGuid>b6281ec6-18b4-4d60-a6e6-413d192a64f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;Pricing_wrapPricing__WZZPj&quot;]/div[@class=&quot;need_help_plan_section&quot;]/div[@class=&quot;contact_section&quot;]/div[@class=&quot;right_content&quot;]/a[@class=&quot;card_row trackable&quot;]/div[@class=&quot;card_content&quot;]</value>
+      <webElementGuid>bfce404a-79bb-4cc5-8eb0-3ee0e6e44b6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[7]/div[2]/div[2]/a[2]/div[2]</value>
+      <webElementGuid>4beeadbb-d4d9-4b4e-ad87-d6de65e27b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy with a credit card or bank transfer'])[1]/following::div[3]</value>
+      <webElementGuid>0e9682ff-6352-4dac-9ecb-28a6c729dd7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book a call'])[1]/following::div[8]</value>
+      <webElementGuid>edaa8032-3ecd-451c-b566-920098456351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy via a Partner'])[1]/preceding::div[4]</value>
+      <webElementGuid>8c2b247c-1bb2-424b-98a9-117d6d78c733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[2]/a[2]/div[2]</value>
+      <webElementGuid>3e6d4794-4dec-4e9d-a1ce-3e6df6958f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Buy via the AWS Marketplace' or . = 'Buy via the AWS Marketplace')]</value>
+      <webElementGuid>3e3af4de-4609-4003-8d40-19459a6945f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

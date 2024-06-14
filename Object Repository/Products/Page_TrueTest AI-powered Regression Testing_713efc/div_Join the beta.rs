@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Join the beta</name>
+   <tag></tag>
+   <elementGuidId>31920805-31ce-42f5-ab96-ceb9756b45cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn_primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Join the betaPlay demo$/ >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a9f8183-6de0-4d21-a02e-6a1e68ad1c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_primary</value>
+      <webElementGuid>4bde7395-fec5-4106-85e9-f65a4ddd73ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Join the beta</value>
+      <webElementGuid>7ced5775-4b6e-4d01-9874-806f66c6f294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;TrueTestPage_wrapTrueTestPage__ZNVB9&quot;]/div[@class=&quot;hero_section&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;hero_content&quot;]/div[@class=&quot;hero_button&quot;]/a[@class=&quot;btn_request_beta trackable&quot;]/div[@class=&quot;btn_primary&quot;]</value>
+      <webElementGuid>b9ff6799-1983-4dcd-99f5-f0429a5b9f5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[3]/a/div</value>
+      <webElementGuid>2dea1918-ab4c-4be3-8eef-71681f9a81aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TrueTest™'])[1]/following::div[3]</value>
+      <webElementGuid>bfb753ce-e548-4d11-9de9-68dc2b54e075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI-powered regression testing'])[1]/following::div[3]</value>
+      <webElementGuid>a4af98ed-1003-462b-b489-3c58c8870e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play demo'])[1]/preceding::div[1]</value>
+      <webElementGuid>e568233c-0528-4cc4-82bc-0181c3e26eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today, regression testing is a hamster wheel...'])[1]/preceding::div[7]</value>
+      <webElementGuid>e5afa596-b606-4780-8e8d-36ad25e51950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Join the beta']/parent::*</value>
+      <webElementGuid>6263a9af-ee27-4a81-a723-98c0b79cc196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div</value>
+      <webElementGuid>e45cf4de-f2d6-4f8d-8abb-186665e43204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Join the beta' or . = 'Join the beta')]</value>
+      <webElementGuid>fb458ab8-68ad-4528-8870-b2154bc302ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

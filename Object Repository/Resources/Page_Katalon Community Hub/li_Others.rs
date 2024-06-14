@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Others</name>
+   <tag></tag>
+   <elementGuidId>cc4ad56d-26b0-4709-bdf9-a63c0f4a5a6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='sectionKshare']/div/ul/li[6]/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(6) > ul > li:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sectionKshare >> internal:text=&quot;Others&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b6b2ddf9-7999-4b14-83fa-a44fb2e2979e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Others</value>
+      <webElementGuid>4233af30-4210-48b7-8e7c-00db52e78757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionKshare&quot;)/div[@class=&quot;cmContainer smooth-scroll&quot;]/ul[@class=&quot;Blogs_tabs__lLQBQ&quot;]/li[6]/ul[1]/li[2]</value>
+      <webElementGuid>a833cfae-87d9-4e99-962f-6fbf38315cb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='sectionKshare']/div/ul/li[6]/ul/li[2]</value>
+      <webElementGuid>060edfda-7a15-4c38-8b52-a33f7174aed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salesforce Testing'])[1]/following::li[1]</value>
+      <webElementGuid>2902e59a-fa46-470b-8891-dfbaacdd15bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saleforce Testing'])[1]/preceding::li[1]</value>
+      <webElementGuid>5b1bf07d-e8c5-40e0-8468-9455a05d4352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saleforce Testing'])[2]/preceding::li[1]</value>
+      <webElementGuid>8ed5b77f-22e8-4fc0-89eb-fdf3c24abe14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[2]</value>
+      <webElementGuid>c71be061-349e-4850-933d-3369b417108c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Others' or . = 'Others')]</value>
+      <webElementGuid>a491c2f7-1065-4e60-abe9-03bb95714487</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

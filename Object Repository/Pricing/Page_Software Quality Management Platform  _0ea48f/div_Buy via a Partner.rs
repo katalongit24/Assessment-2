@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Buy via a Partner</name>
+   <tag></tag>
+   <elementGuidId>6b4dbec4-827e-45df-82e2-83d091a75fd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[7]/div[2]/div[2]/a[3]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Buy via a Partner&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4088c88f-c9f3-44a1-8d0a-bc46cf39a8b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card_name</value>
+      <webElementGuid>8dd2fc20-c9f3-4f92-a48c-039fa0791611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buy via a Partner</value>
+      <webElementGuid>57ec30c0-3996-4d86-b0fb-8bb3dba3363e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;Pricing_wrapPricing__WZZPj&quot;]/div[@class=&quot;need_help_plan_section&quot;]/div[@class=&quot;contact_section&quot;]/div[@class=&quot;right_content&quot;]/a[@class=&quot;card_row trackable&quot;]/div[@class=&quot;card_content&quot;]/div[@class=&quot;card_name&quot;]</value>
+      <webElementGuid>1d530c65-7370-4510-9e5b-43df54117e5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[7]/div[2]/div[2]/a[3]/div[2]/div</value>
+      <webElementGuid>61807f17-1267-43a5-86d6-da0ae75a45ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy via the AWS Marketplace'])[1]/following::div[4]</value>
+      <webElementGuid>4b5f2de6-dba0-46f0-ab55-04f7855aa741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy with a credit card or bank transfer'])[1]/following::div[8]</value>
+      <webElementGuid>8e42b7c9-89f6-42d0-96b1-43e046a15a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequently Asked Questions'])[1]/preceding::div[2]</value>
+      <webElementGuid>b295704b-d11f-473a-9945-0e2e635d8544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How do I know which plan is right for me?'])[1]/preceding::div[2]</value>
+      <webElementGuid>417408bf-e0d3-4a59-9662-00abd4ebe774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buy via a Partner']/parent::*</value>
+      <webElementGuid>07d7c4d9-08c1-4294-b56e-aa78fec0fe8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div[2]/div</value>
+      <webElementGuid>692cec07-3078-4486-9c1f-4144f2a6faa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Buy via a Partner' or . = 'Buy via a Partner')]</value>
+      <webElementGuid>0f3fd77d-97bd-4c0f-9f50-6e8ab22b6047</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

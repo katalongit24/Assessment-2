@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Test your app now</name>
+   <tag></tag>
+   <elementGuidId>52041401-6126-4409-ae0a-5a8d8d755d8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div[5]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.start-testing</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Test your app now&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>938df884-fa54-489b-9a78-fba53a652069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>start-testing</value>
+      <webElementGuid>33769c09-e472-4c65-b59a-09eec2200c0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sign-up?ref=web_testing_mid_test_your_app_now</value>
+      <webElementGuid>ac82c773-241c-446f-80bb-cad13afa7766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test your app now</value>
+      <webElementGuid>c10343d3-7512-4895-a9b0-00adc71f1664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;WebTesting_wrapWebTesting__0s7Sz&quot;]/div[@class=&quot;solution&quot;]/div[@class=&quot;guide&quot;]/div[@class=&quot;content-right&quot;]/a[@class=&quot;start-testing&quot;]</value>
+      <webElementGuid>977e87e0-bf0f-46b9-b95f-6145e35f98f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div[5]/div[2]/a</value>
+      <webElementGuid>09e7fec6-2e8f-4318-92ec-b9833d5f9fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test your app now')]</value>
+      <webElementGuid>45b11208-acff-4f6d-9391-4bcab24b883a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Involve the development team throughout the testing process.'])[1]/following::a[1]</value>
+      <webElementGuid>54c7117b-35ad-435c-92c2-99f04e558b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep URL strings unalterable in security tests.'])[1]/following::a[1]</value>
+      <webElementGuid>48130adc-8e96-4b60-a5db-c60b0c7eb733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Katalon for Web Application Testing'])[1]/preceding::a[1]</value>
+      <webElementGuid>0684ae49-20dd-4d43-b1d8-5698f9f5ace6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium compliant'])[1]/preceding::a[1]</value>
+      <webElementGuid>ec6e9091-9614-4439-8051-01c6a02b1cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test your app now']/parent::*</value>
+      <webElementGuid>22d4d109-0b05-43d8-8020-d07d398e8c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/sign-up?ref=web_testing_mid_test_your_app_now')]</value>
+      <webElementGuid>75e09909-5f46-41d5-89ff-d5ed9e4a5ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/a</value>
+      <webElementGuid>bf1f1257-db51-4462-a1ad-7a06fc06cddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sign-up?ref=web_testing_mid_test_your_app_now' and (text() = 'Test your app now' or . = 'Test your app now')]</value>
+      <webElementGuid>b9088dcd-7acc-4c7c-b01a-23ff40f56c49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

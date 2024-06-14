@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Become a Community Contributor today</name>
+   <tag></tag>
+   <elementGuidId>bf1fb786-0f0e-4e59-87b8-aa008efab863</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section[2]/section[2]/div/div[2]/div/div[2]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Become a Community Contributor today!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a270e5a-ac08-443a-901d-1e2b4bb9d6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Become a Community Contributor today!</value>
+      <webElementGuid>d2a6b740-d8f6-4a60-b26c-c77572713154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;CommunityHub_container__OZzzN&quot;]/section[@class=&quot;Trending_container__r_Ebw&quot;]/section[@class=&quot;cmContainer&quot;]/div[@class=&quot;Trending_sectionDiscussions__fixFB&quot;]/div[@class=&quot;Trending_right__tSLZ1&quot;]/div[@class=&quot;Trending_programs__NECv7&quot;]/div[@class=&quot;Trending_programItem__0yReN&quot;]/div[@class=&quot;Trending_programDetail__nLHim&quot;]/a[@class=&quot;CommunityHub_CTA__zDRJa&quot;]/span[1]</value>
+      <webElementGuid>aeb1358f-352f-4071-9dbb-9d860b25947b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[2]/section[2]/div/div[2]/div/div[2]/div/a/span</value>
+      <webElementGuid>3437b37d-ec0f-4107-a0ef-d60238a751b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Katalon Creator today'])[1]/following::span[3]</value>
+      <webElementGuid>93df12c6-fcdf-4fa8-93db-b3d29b669608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our programs'])[1]/following::span[6]</value>
+      <webElementGuid>eb1e57fd-d26b-4873-9d2e-1a1a80cc1a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check out the gifts!'])[1]/preceding::span[3]</value>
+      <webElementGuid>9671372c-ca01-484e-a426-8ccdc4920187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start learning'])[1]/preceding::span[6]</value>
+      <webElementGuid>b9454176-6aa1-4f10-84d4-1a97779ba82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Become a Community Contributor today!']/parent::*</value>
+      <webElementGuid>7e1112ac-2b08-49ba-bc29-8fdac769d878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/span</value>
+      <webElementGuid>cf96232e-18bc-4259-9e3b-80d4417a78c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Become a Community Contributor today!' or . = 'Become a Community Contributor today!')]</value>
+      <webElementGuid>709fd0c3-7d32-4145-bac5-84c80fae956c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

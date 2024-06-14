@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Check out the gifts</name>
+   <tag></tag>
+   <elementGuidId>9d70172e-dbd9-45d3-bd3c-72f3ba81628b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section[2]/section[2]/div/div[2]/div/div[3]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Check out the gifts!&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c28229b1-ccfb-431b-b834-f821a668d98a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check out the gifts!</value>
+      <webElementGuid>47671730-736c-4e9e-93eb-3af26926e53f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;CommunityHub_container__OZzzN&quot;]/section[@class=&quot;Trending_container__r_Ebw&quot;]/section[@class=&quot;cmContainer&quot;]/div[@class=&quot;Trending_sectionDiscussions__fixFB&quot;]/div[@class=&quot;Trending_right__tSLZ1&quot;]/div[@class=&quot;Trending_programs__NECv7&quot;]/div[@class=&quot;Trending_programItem__0yReN&quot;]/div[@class=&quot;Trending_programDetail__nLHim&quot;]/a[@class=&quot;CommunityHub_CTA__zDRJa&quot;]/span[1]</value>
+      <webElementGuid>a7c4b18d-408c-4bea-a364-02c392916115</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[2]/section[2]/div/div[2]/div/div[3]/div/a/span</value>
+      <webElementGuid>aa4f1999-7a14-46bc-a73c-0618b7b2dec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Community Contributor today!'])[1]/following::span[3]</value>
+      <webElementGuid>1260d5e2-2367-47a7-bef4-bd37abc3f83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Katalon Creator today'])[1]/following::span[6]</value>
+      <webElementGuid>d09bc924-06f1-4460-b9ea-929e6d1c1d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start learning'])[1]/preceding::span[3]</value>
+      <webElementGuid>c6b52c3e-e038-4ea4-98ad-4a812755c515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Katalon Academy instructor!'])[1]/preceding::span[6]</value>
+      <webElementGuid>5771007e-4349-46d7-a552-371caaa31012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check out the gifts!']/parent::*</value>
+      <webElementGuid>0444ef4b-7296-467a-81c9-fe108cf05b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/span</value>
+      <webElementGuid>961b42f5-3ecd-4e39-8c02-7305519ef03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Check out the gifts!' or . = 'Check out the gifts!')]</value>
+      <webElementGuid>8475cc13-1487-44bf-8585-720758a17264</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Check our KShare now</name>
+   <tag></tag>
+   <elementGuidId>2161cb7e-7920-41f2-8084-0579ef0e048c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section[2]/section[2]/div/div[2]/div/div[7]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Check our KShare now&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bc2e307d-fed4-4627-86a0-e3aeaa9f534f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check our KShare now</value>
+      <webElementGuid>4b5546eb-e02c-40d6-951e-636f52c8ac14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;CommunityHub_container__OZzzN&quot;]/section[@class=&quot;Trending_container__r_Ebw&quot;]/section[@class=&quot;cmContainer&quot;]/div[@class=&quot;Trending_sectionDiscussions__fixFB&quot;]/div[@class=&quot;Trending_right__tSLZ1&quot;]/div[@class=&quot;Trending_programs__NECv7&quot;]/div[@class=&quot;Trending_programItem__0yReN&quot;]/div[@class=&quot;Trending_programDetail__nLHim&quot;]/a[@class=&quot;CommunityHub_CTA__zDRJa&quot;]/span[1]</value>
+      <webElementGuid>2918fe72-7b75-4d8d-a739-fbea990c3244</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[2]/section[2]/div/div[2]/div/div[7]/div/a/span</value>
+      <webElementGuid>974b1ac0-1675-4f35-95a0-eaee6ff28f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore the Katalon for Education program'])[1]/following::span[3]</value>
+      <webElementGuid>f86a5548-7546-42c4-ae62-e5c88b2b0535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Katalon Academy instructor!'])[1]/following::span[6]</value>
+      <webElementGuid>e359793d-f3c1-47f5-a844-40a49824b169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest releases'])[1]/preceding::span[1]</value>
+      <webElementGuid>26e7246d-8525-4f27-9e10-2a2809aa5d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jun 6, 2024'])[1]/preceding::span[1]</value>
+      <webElementGuid>ddb05779-a340-446f-91bd-dfe0b039b2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check our KShare now']/parent::*</value>
+      <webElementGuid>68b930d9-b515-4404-8785-62930fc757f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/a/span</value>
+      <webElementGuid>7ff7088d-5c47-445c-8324-7345d50a4a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Check our KShare now' or . = 'Check our KShare now')]</value>
+      <webElementGuid>c9331ee6-c80e-47f5-a9be-d86182b4c4e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
