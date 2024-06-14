@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+katalon,Chrome 125.0.0.0,,,14-06-2024 14:41:52,14-06-2024 14:46:45,4m - 53.043s,FAILED
+,,,,,,,
+Test Cases/Katalon/Pricing,Chrome 125.0.0.0,,,14-06-2024 14:42:42,14-06-2024 14:43:00,17.846s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 14:42:42,14-06-2024 14:42:45,2.402s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 125.0.0.0,,,14-06-2024 14:42:45,14-06-2024 14:42:58,12.936s,PASSED
+"click(findTestObject(""Object Repository/Pricing/Page_Katalon AI-augmented Software Quality _596167/div_Pricing""))",Chrome 125.0.0.0,,,14-06-2024 14:42:58,14-06-2024 14:43:00,2.463s,FAILED
+,,,,,,,
+Test Cases/Katalon/Products,Chrome 125.0.0.0,,,14-06-2024 14:43:58,14-06-2024 14:44:17,19.457s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 14:43:58,14-06-2024 14:44:01,2.695s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 125.0.0.0,,,14-06-2024 14:44:01,14-06-2024 14:44:15,14.193s,PASSED
+"click(findTestObject(""Object Repository/Products/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 125.0.0.0,,,14-06-2024 14:44:15,14-06-2024 14:44:16,0.751s,PASSED
+"click(findTestObject(""Object Repository/Products/Page_Katalon AI-augmented Software Quality _596167/div_Runtime Engine""))",Chrome 125.0.0.0,,,14-06-2024 14:44:16,14-06-2024 14:44:17,1.782s,FAILED
+,,,,,,,
+Test Cases/Katalon/Resources,Chrome 125.0.0.0,,,14-06-2024 14:45:16,14-06-2024 14:45:34,17.745s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 14:45:16,14-06-2024 14:45:19,2.548s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 125.0.0.0,,,14-06-2024 14:45:19,14-06-2024 14:45:32,12.877s,PASSED
+"click(findTestObject(""Object Repository/Resources/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 125.0.0.0,,,14-06-2024 14:45:32,14-06-2024 14:45:32,0.756s,PASSED
+"click(findTestObject(""Object Repository/Resources/Page_Katalon AI-augmented Software Quality _596167/div_Community Help""))",Chrome 125.0.0.0,,,14-06-2024 14:45:32,14-06-2024 14:45:34,1.521s,FAILED
+,,,,,,,
+Test Cases/Katalon/Solutions,Chrome 125.0.0.0,,,14-06-2024 14:46:29,14-06-2024 14:46:45,16.349s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,14-06-2024 14:46:29,14-06-2024 14:46:31,2.232s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 125.0.0.0,,,14-06-2024 14:46:31,14-06-2024 14:46:43,12.272s,PASSED
+"click(findTestObject(""Object Repository/Solutions/Page_Katalon AI-augmented Software Quality _596167/div_Web Testing""))",Chrome 125.0.0.0,,,14-06-2024 14:46:43,14-06-2024 14:46:45,1.809s,FAILED
